@@ -1,0 +1,1 @@
+console.log("pritam thank you..jani toi bokavhuda");
